@@ -545,7 +545,7 @@ input:focus {
           .header-area .vizew-main-menu .classy-navbar .classynav ul li a {
             height: 35px;
             line-height: 35px;
-            font-size: 14px;
+            font-size: 16px;
             background-color: #ffcc00;
             border-bottom: none; } }
         .header-area .vizew-main-menu .classy-navbar .classynav ul li a:hover, .header-area .vizew-main-menu .classy-navbar .classynav ul li a:focus {
@@ -577,7 +577,7 @@ input:focus {
         .header-area .vizew-main-menu .classy-navbar .classynav ul li ul li a:hover, .header-area .vizew-main-menu .classy-navbar .classynav ul li ul li a:focus {
           color: #ffcc00; }
       .header-area .vizew-main-menu .classy-navbar .classynav ul li.active a {
-        border-bottom-color: #000000; }
+        border-bottom: 5px solid #000000; }
         @media only screen and (min-width: 768px) and (max-width: 991px) {
           .header-area .vizew-main-menu .classy-navbar .classynav ul li.active a {
             border-bottom-color: transparent; } }
@@ -585,7 +585,7 @@ input:focus {
           .header-area .vizew-main-menu .classy-navbar .classynav ul li.active a {
             border-bottom-color: transparent; } }
   .header-area .classy-navbar-toggler .navbarToggler span {
-    background-color: #ffffff; }
+    background-color: #000000; }
   .header-area .is-sticky .vizew-main-menu {
     z-index: 9999;
     box-shadow: 0 5px 50px 0 rgba(0, 0, 0, 0.2); }
@@ -594,13 +594,12 @@ input:focus {
   padding-top: 70px;
   padding-bottom: 70px; }
 .breakpoint-on .classy-navbar .classy-menu {
-  background-color: #ffcc00;
-  box-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.2); }
+  background-color: #ffcc00; }
 .breakpoint-on .classynav ul li .megamenu .single-mega.cn-col-4 {
   padding: 0;
   border-bottom: 1px solid #393c3d; }
 .breakpoint-on .classycloseIcon .cross-wrap span {
-  background: #ffffff; }
+  background: #000000; }
 
 .hero-area {
   position: relative;
