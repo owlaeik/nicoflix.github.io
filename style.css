@@ -1174,13 +1174,13 @@ input:focus {
     border: none; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .single-video-area iframe {
-        height: 550px !important; } }
+        height: 650px !important; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .single-video-area iframe {
-        height: 400px !important; } }
+        height: 600px !important; } }
     @media only screen and (max-width: 767px) {
       .single-video-area iframe {
-        height: 220px !important; } }
+        height: 500px !important; } }
 
 .post-details-content {
   position: relative;
